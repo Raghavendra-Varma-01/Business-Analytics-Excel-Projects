@@ -19,6 +19,10 @@ A collection of Business Analytics projects developed using Microsoft Excel, foc
 
 **File:** `E-Commerce-Sales-Dashboard.xlsx`
 
+### Dashboard Preview
+
+![E-Commerce Sales Dashboard](ecommerce-sales-dashboard.png)
+
 ### 2. Restaurant Tips Prediction
 
 **Objective:** Analyze restaurant customer tipping patterns and explore factors influencing tip amounts.
@@ -34,6 +38,10 @@ A collection of Business Analytics projects developed using Microsoft Excel, foc
 **Tools:** Microsoft Excel, IF Functions, Pivot Tables, Charts, Data Analysis
 
 **File:** `Restaurant_Tips_Dashboard.xlsx`
+
+### Dashboard Preview
+
+![Restaurant Tips Dashboard](restaurant-tips-dashboard.png)
 
 ## Repository Structure
 
