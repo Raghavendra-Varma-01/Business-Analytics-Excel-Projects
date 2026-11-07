@@ -1,72 +1,41 @@
 # Business Analytics with Excel Projects
 
-A collection of Business Analytics projects developed using Microsoft Excel, focusing on data analysis, dashboard development, visualization, and predictive analytics.
+This repository contains two Excel-based projects focused on exploring business data, understanding patterns, and supporting practical decisions.
 
-## Projects
+## 1. E-Commerce Sales Dashboard
 
-### 1. E-Commerce Sales Dashboard
+**Scope**
 
-**Objective:** Analyze e-commerce sales performance across product categories, months, and geographical regions.
+Analyzes e-commerce sales and profit across different months, product categories, and geographical regions. An interactive product-category selection and linked charts help explore the sales data from different perspectives.
 
-**Key Features:**
-- Monthly Sales and Profit analysis
-- Region-wise Sales analysis
-- Interactive Product Category selection
-- Dynamic charts linked to analysis tables
-- Organized raw data and analysis worksheets
+**What it is used for**
 
-**Tools:** Microsoft Excel, Charts, Formulas, Data Validation
+- Monitor monthly sales and profit trends.
+- Compare sales performance across geographical regions.
+- Explore how product categories contribute to overall sales.
+- Identify stronger and weaker sales periods and regions to support business planning.
 
-**File:** `E-Commerce-Sales-Dashboard.xlsx`
+**Project files:** [Excel Workbook](Project-1-E-Commerce-Sales-Dashboard/E-Commerce-Sales-Dashboard.xlsx)
 
-### Dashboard Preview
+**Dashboard Preview**
 
-![E-Commerce Sales Dashboard](ecommerce-sales-dashboard.png)
+![E-Commerce Sales Dashboard](Project-1-E-Commerce-Sales-Dashboard/ecommerce-sales-dashboard.png)
 
-### 2. Restaurant Tips Prediction
+## 2. Restaurant Tips Prediction
 
-**Objective:** Analyze restaurant customer tipping patterns and explore factors influencing tip amounts.
+**Scope**
 
-**Key Features:**
-- Data organization and cleaning
-- Categorical variable encoding
-- Gender-wise tip analysis
-- Day-wise tip analysis
-- Lunch vs Dinner tip comparison
-- Bill and tip relationship visualization
+Explores restaurant tipping patterns using customer bill and tip data. The analysis compares tips by gender, day, and meal time, examines the relationship between bill amounts and tips, and uses multiple linear regression to calculate predicted tip amounts.
 
-**Tools:** Microsoft Excel, IF Functions, Pivot Tables, Charts, Data Analysis
+**What it is used for**
 
-**File:** `Restaurant_Tips_Dashboard.xlsx`
+- Understand how tipping patterns vary across customer groups and dining periods.
+- Examine the relationship between bill amounts and tips.
+- Use regression-based estimates to understand and predict tip amounts.
+- Support restaurant analysis of customer tipping behaviour and service-related trends.
 
-### Dashboard Preview
+**Project files:** [Excel Workbook](Project-2-Restaurant-Tips-Prediction/Restaurant_Tips_Dashboard.xlsx)
 
-![Restaurant Tips Dashboard](restaurant-tips-dashboard.png)
+**Dashboard Preview**
 
-## Repository Structure
-
-Business-Analytics-Excel-Projects/
-- E-Commerce-Sales-Dashboard.xlsx
-- Restaurant_Tips_Dashboard.xlsx
-- README.md
-
-## Skills Demonstrated
-
-- Microsoft Excel
-- Data Cleaning
-- Data Analysis
-- Pivot Tables
-- Data Visualization
-- Interactive Dashboards
-- Statistical Analysis
-- Business Intelligence
-
-## Author
-
-Raghavendra Varma
-
-GitHub: https://github.com/Raghavendra-Varma-01
-
----
-
-*These projects were completed as part of Business Analytics with Excel certification training.*
+![Restaurant Tips Dashboard](Project-2-Restaurant-Tips-Prediction/restaurant-tips-dashboard.png)
